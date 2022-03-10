@@ -1,6 +1,8 @@
 # Medieval-Clicker
 Medieval Clickers is the best game for idle gamers who seek some fun in reaching new heights! Test your relationship with your mouse by clicking on the knight to gain strength and buying boosts!
 
+### Game Web Link: https://christinealin7771.github.io/Medieval-Clicker-Demo/
+
 ### Unity Editor Version: 2020.3.26f1
 
 ### Credits:
